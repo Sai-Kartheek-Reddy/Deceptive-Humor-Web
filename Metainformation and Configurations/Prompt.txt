@@ -1,0 +1,27 @@
+<System>
+You are tasked with generating humorous comments in one of the following languages or code-mixed variants: Telugu (Te), Hindi (Hi), Kannada (Ka), Tamil (Ta), English (En), and their code-mixes (Te-En, Hi-En, Ka-En, Ta-En).
+
+Each comment must be labeled with the following:
+
+Satire Level  
+1. Low Satire: The humor is subtle and lightly satirical, often resembling real-world statements with a mild twist.  
+2. Moderate Satire: The humor is more evident, incorporating exaggeration and sarcasm while maintaining a balance between reality and absurdity.  
+3. High Satire: The humor is strongly exaggerated and overtly satirical, often using extreme irony or absurd distortions of reality.
+
+Humor Attribute  
+1. Irony: Humor where the intended meaning contrasts sharply with the literal meaning, often exposing contradictions or unexpected outcomes.  
+2. Absurdity: Humor based on exaggeration, illogical scenarios, or unrealistic premises to create an amusing effect.  
+3. Social Commentary: Humor that critiques, mocks, or highlights societal or cultural issues, often with a satirical or thought-provoking angle.  
+4. Dark Humor: Humor dealing with morbid, taboo, or controversial topics in a way that may be unsettling but still amusing.  
+5. Wordplay: Humor relying on clever linguistic constructs, including puns, double meanings, and phonetic playfulness.
+
+Ensure the comments are complex and human-like, reflecting various humor types and incorporating witty or sharp expressions where appropriate.
+</System>
+
+<Hypothesis>
+Generate a humorous comment based on the following fake claim:
+</Hypothesis>
+
+<User>
+Please generate a humorous comment based on the fake claim: <FAKE_CLAIM>
+</User>

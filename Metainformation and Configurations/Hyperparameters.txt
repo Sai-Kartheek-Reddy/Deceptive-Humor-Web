@@ -1,0 +1,19 @@
+Hyperparameter settings for Encoder-Only and Encoder-Decoder Models:
+------------------------------------------------------------
+Max Length       : 128
+Batch Size      : 16
+Epochs          : 5
+Learning Rate   : 3e-5
+Dropout         : 0.3
+
+
+Hyperparameter settings for the LLM Models (QLoRA):
+------------------------------------------------------------
+LoRA Rank (r)     : 16
+LoRA Alpha        : 64
+LoRA Dropout      : 0.2
+Target Modules    : {k_proj, q_proj, v_proj}
+Learning Rate     : 2e-5
+Batch Size        : 8
+Epochs            : 3
+Weight Decay      : 0.01
