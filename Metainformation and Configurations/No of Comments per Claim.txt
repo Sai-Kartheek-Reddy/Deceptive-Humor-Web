@@ -1,0 +1,697 @@
+Claim: "China spreading coronavirus as a biological weapon."
+
+No of comments from Language "Te-En": 63
+No of comments from Language "Hi-En": 51
+No of comments from Language "Ta-En": 44
+No of comments from Language "Ka-En": 38
+No of comments from Language "En": 35
+No of comments from Language "Te": 30
+No of comments from Language "Ta": 27
+No of comments from Language "Ka": 25
+No of comments from Language "Hi": 21
+
+--------------------------------------------------
+
+Claim: "Pathan is spreading anti-Hindu sentiment."
+
+No of comments from Language "Ta-En": 55
+No of comments from Language "Te-En": 33
+No of comments from Language "Hi-En": 31
+No of comments from Language "Ka-En": 25
+No of comments from Language "En": 20
+No of comments from Language "Hi": 10
+No of comments from Language "Ta": 7
+No of comments from Language "Te": 5
+No of comments from Language "Ka": 5
+
+--------------------------------------------------
+
+Claim: "Bollywood is spreading anti-Hindu sentiments through its movies like PK, Adipurush, and Pathan."
+
+No of comments from Language "Hi": 62
+No of comments from Language "Te": 47
+No of comments from Language "Ta": 44
+No of comments from Language "Ka": 43
+No of comments from Language "Hi-En": 29
+No of comments from Language "Ta-En": 27
+No of comments from Language "Te-En": 24
+No of comments from Language "En": 21
+No of comments from Language "Ka-En": 17
+
+--------------------------------------------------
+
+Claim: "World Health Organization (WHO) declares eating meat causes cancer."
+
+No of comments from Language "Hi": 44
+No of comments from Language "Te": 39
+No of comments from Language "Ka": 34
+No of comments from Language "En": 33
+No of comments from Language "Ta": 30
+No of comments from Language "Hi-En": 29
+No of comments from Language "Ka-En": 28
+No of comments from Language "Te-En": 23
+No of comments from Language "Ta-En": 22
+
+--------------------------------------------------
+
+Claim: "Justice Muralidhar was transferred overnight by the central government due to his critical remarks against the Delhi Police during the Delhi riots."
+
+No of comments from Language "Te": 26
+No of comments from Language "En": 18
+No of comments from Language "Ka": 16
+No of comments from Language "Ta": 16
+No of comments from Language "Hi": 16
+No of comments from Language "Te-En": 12
+No of comments from Language "Hi-En": 9
+No of comments from Language "Ka-En": 9
+No of comments from Language "Ta-En": 9
+
+--------------------------------------------------
+
+Claim: "All vaccinated people will die within 2 years."
+
+No of comments from Language "Te": 34
+No of comments from Language "Ka": 26
+No of comments from Language "Hi": 26
+No of comments from Language "Ka-En": 25
+No of comments from Language "Ta": 24
+No of comments from Language "En": 19
+No of comments from Language "Te-En": 19
+No of comments from Language "Hi-En": 13
+No of comments from Language "Ta-En": 8
+
+--------------------------------------------------
+
+Claim: "Prabhas dating Anushka."
+
+No of comments from Language "Ka": 11
+No of comments from Language "Te": 9
+No of comments from Language "En": 8
+No of comments from Language "Hi-En": 8
+No of comments from Language "Hi": 7
+No of comments from Language "Ta-En": 6
+No of comments from Language "Ka-En": 5
+No of comments from Language "Ta": 5
+No of comments from Language "Te-En": 5
+
+--------------------------------------------------
+
+Claim: "Hindu temples in India are being destroyed and replaced with mosques."
+
+No of comments from Language "Hi": 138
+No of comments from Language "Te": 124
+No of comments from Language "Ta": 98
+No of comments from Language "En": 86
+No of comments from Language "Ka": 81
+No of comments from Language "Ka-En": 58
+No of comments from Language "Te-En": 46
+No of comments from Language "Hi-En": 35
+No of comments from Language "Ta-En": 27
+
+--------------------------------------------------
+
+Claim: "The Indian government is introducing a ‘one-child policy’ to control the population."
+
+No of comments from Language "Ta": 77
+No of comments from Language "Hi": 74
+No of comments from Language "Te": 67
+No of comments from Language "Ka": 43
+No of comments from Language "En": 32
+No of comments from Language "Te-En": 30
+No of comments from Language "Ka-En": 28
+No of comments from Language "Ta-En": 17
+No of comments from Language "Hi-En": 17
+
+--------------------------------------------------
+
+Claim: "Chinese companies are secretly building surveillance networks in Indian cities."
+
+No of comments from Language "En": 20
+No of comments from Language "Te": 18
+No of comments from Language "Ka-En": 17
+No of comments from Language "Ka": 16
+No of comments from Language "Te-En": 15
+No of comments from Language "Hi": 15
+No of comments from Language "Ta-En": 8
+No of comments from Language "Ta": 7
+No of comments from Language "Hi-En": 5
+
+--------------------------------------------------
+
+Claim: "The COVID-19 vaccine turns you into a zombie after two years."
+
+No of comments from Language "Hi-En": 31
+No of comments from Language "Ta-En": 30
+No of comments from Language "Te-En": 28
+No of comments from Language "Ka-En": 26
+No of comments from Language "En": 25
+No of comments from Language "Te": 23
+No of comments from Language "Ta": 19
+No of comments from Language "Ka": 11
+No of comments from Language "Hi": 11
+
+--------------------------------------------------
+
+Claim: "Posters of Hindu deities burnt during CAA protests."
+
+No of comments from Language "Te-En": 33
+No of comments from Language "Ka-En": 26
+No of comments from Language "Hi-En": 23
+No of comments from Language "Ta-En": 22
+No of comments from Language "En": 22
+No of comments from Language "Te": 17
+No of comments from Language "Ka": 15
+No of comments from Language "Hi": 14
+No of comments from Language "Ta": 9
+
+--------------------------------------------------
+
+Claim: "Salaar had a crossover with KGF, both are part of the cinematic universe."
+
+No of comments from Language "En": 14
+No of comments from Language "Hi-En": 12
+No of comments from Language "Ta": 11
+No of comments from Language "Te": 6
+No of comments from Language "Hi": 6
+No of comments from Language "Ka-En": 6
+No of comments from Language "Ta-En": 6
+No of comments from Language "Ka": 5
+No of comments from Language "Te-En": 4
+
+--------------------------------------------------
+
+Claim: "Muslims are spitting on food to spread COVID-19."
+
+No of comments from Language "En": 47
+No of comments from Language "Te": 33
+No of comments from Language "Hi": 28
+No of comments from Language "Te-En": 24
+No of comments from Language "Ta-En": 19
+No of comments from Language "Ta": 18
+No of comments from Language "Hi-En": 16
+No of comments from Language "Ka": 14
+No of comments from Language "Ka-En": 8
+
+--------------------------------------------------
+
+Claim: "China is actively exporting ’fake rice’ made from plastic to African countries."
+
+No of comments from Language "Ka": 35
+No of comments from Language "Te-En": 35
+No of comments from Language "Te": 34
+No of comments from Language "En": 32
+No of comments from Language "Ta": 31
+No of comments from Language "Hi-En": 30
+No of comments from Language "Ta-En": 25
+No of comments from Language "Hi": 24
+No of comments from Language "Ka-En": 23
+
+--------------------------------------------------
+
+Claim: "Sharks Are Immune to Cancer."
+
+No of comments from Language "Hi-En": 15
+No of comments from Language "Ka-En": 13
+No of comments from Language "En": 13
+No of comments from Language "Ta-En": 12
+No of comments from Language "Te": 9
+No of comments from Language "Te-En": 9
+No of comments from Language "Ka": 8
+No of comments from Language "Ta": 8
+No of comments from Language "Hi": 7
+
+--------------------------------------------------
+
+Claim: "Claims of Dhoni and Kohli donating to the Odisha train accident circulate on social media."
+
+No of comments from Language "Hi": 55
+No of comments from Language "Te": 55
+No of comments from Language "Ka": 43
+No of comments from Language "Ta": 41
+No of comments from Language "Ta-En": 37
+No of comments from Language "En": 37
+No of comments from Language "Hi-En": 37
+No of comments from Language "Te-En": 32
+No of comments from Language "Ka-En": 32
+
+--------------------------------------------------
+
+Claim: "The Taj Mahal was originally a Hindu temple named Tejo Mahalaya."
+
+No of comments from Language "Hi": 41
+No of comments from Language "Ta-En": 41
+No of comments from Language "Ka": 40
+No of comments from Language "Te-En": 40
+No of comments from Language "Ta": 39
+No of comments from Language "Hi-En": 39
+No of comments from Language "Te": 38
+No of comments from Language "Ka-En": 28
+No of comments from Language "En": 26
+
+--------------------------------------------------
+
+Claim: "Tablighis spreading coronavirus as jihadi propaganda."
+
+No of comments from Language "Hi-En": 38
+No of comments from Language "Te-En": 37
+No of comments from Language "Ka-En": 35
+No of comments from Language "Ta-En": 26
+No of comments from Language "En": 23
+No of comments from Language "Ta": 11
+No of comments from Language "Ka": 7
+No of comments from Language "Te": 7
+No of comments from Language "Hi": 7
+
+--------------------------------------------------
+
+Claim: "Migrant workers beaten during the coronavirus lockdown."
+
+No of comments from Language "Ka-En": 24
+No of comments from Language "Te-En": 23
+No of comments from Language "Ta-En": 17
+No of comments from Language "En": 14
+No of comments from Language "Hi-En": 13
+No of comments from Language "Te": 12
+No of comments from Language "Ka": 12
+No of comments from Language "Ta": 9
+No of comments from Language "Hi": 9
+
+--------------------------------------------------
+
+Claim: "Muslims in Kerala are forcing non-Muslims to convert to Islam with the help of the government."
+
+No of comments from Language "Ta": 18
+No of comments from Language "Te": 10
+No of comments from Language "Ka": 10
+No of comments from Language "Hi": 6
+No of comments from Language "Hi-En": 5
+No of comments from Language "Ka-En": 5
+No of comments from Language "Ta-En": 4
+No of comments from Language "Te-En": 3
+No of comments from Language "En": 1
+
+--------------------------------------------------
+
+Claim: "Adani publicly admitted to paying bribes, suggesting the practice extended to India."
+
+No of comments from Language "En": 14
+No of comments from Language "Ka-En": 14
+No of comments from Language "Ka": 13
+No of comments from Language "Ta": 12
+No of comments from Language "Hi": 10
+No of comments from Language "Te-En": 8
+No of comments from Language "Hi-En": 8
+No of comments from Language "Te": 7
+No of comments from Language "Ta-En": 3
+
+--------------------------------------------------
+
+Claim: "Banner was seen in front of the gate of Tihar Jail reading ‘Kejriwal will come again’."
+
+No of comments from Language "Hi": 42
+No of comments from Language "Ka": 34
+No of comments from Language "Ta": 30
+No of comments from Language "En": 29
+No of comments from Language "Te": 29
+No of comments from Language "Hi-En": 28
+No of comments from Language "Te-En": 23
+No of comments from Language "Ka-En": 16
+No of comments from Language "Ta-En": 10
+
+--------------------------------------------------
+
+Claim: "Bill Gates created the COVID-19 virus to implant tracking devices via vaccines."
+
+No of comments from Language "En": 35
+No of comments from Language "Ta-En": 23
+No of comments from Language "Hi-En": 20
+No of comments from Language "Ka-En": 18
+No of comments from Language "Te": 17
+No of comments from Language "Hi": 16
+No of comments from Language "Te-En": 15
+No of comments from Language "Ta": 13
+No of comments from Language "Ka": 10
+
+--------------------------------------------------
+
+Claim: "NASA confirms 15 days of darkness due to planetary alignment."
+
+No of comments from Language "Ta": 30
+No of comments from Language "Ta-En": 29
+No of comments from Language "En": 28
+No of comments from Language "Hi-En": 24
+No of comments from Language "Te": 24
+No of comments from Language "Ka": 22
+No of comments from Language "Hi": 21
+No of comments from Language "Ka-En": 18
+No of comments from Language "Te-En": 17
+
+--------------------------------------------------
+
+Claim: "The Earth Is Flat."
+
+No of comments from Language "Ka-En": 13
+No of comments from Language "En": 13
+No of comments from Language "Te-En": 8
+No of comments from Language "Hi-En": 7
+No of comments from Language "Ta-En": 7
+No of comments from Language "Te": 6
+No of comments from Language "Ka": 5
+No of comments from Language "Ta": 4
+No of comments from Language "Hi": 3
+
+--------------------------------------------------
+
+Claim: "Farmer protest is sponsored by Khalistan."
+
+No of comments from Language "Ka-En": 31
+No of comments from Language "Ta-En": 27
+No of comments from Language "En": 26
+No of comments from Language "Te-En": 26
+No of comments from Language "Hi-En": 20
+No of comments from Language "Ka": 17
+No of comments from Language "Hi": 15
+No of comments from Language "Te": 14
+No of comments from Language "Ta": 7
+
+--------------------------------------------------
+
+Claim: "India’s government is secretly constructing detention camps for Muslims in Assam."
+
+No of comments from Language "Hi": 40
+No of comments from Language "En": 27
+No of comments from Language "Ka": 26
+No of comments from Language "Te-En": 25
+No of comments from Language "Te": 21
+No of comments from Language "Ta": 21
+No of comments from Language "Hi-En": 21
+No of comments from Language "Ka-En": 16
+No of comments from Language "Ta-En": 15
+
+--------------------------------------------------
+
+Claim: "Pyramids Were Built by Aliens."
+
+No of comments from Language "En": 20
+No of comments from Language "Ta-En": 13
+No of comments from Language "Ka-En": 13
+No of comments from Language "Te-En": 11
+No of comments from Language "Te": 9
+No of comments from Language "Hi": 9
+No of comments from Language "Ta": 7
+No of comments from Language "Hi-En": 5
+No of comments from Language "Ka": 3
+
+--------------------------------------------------
+
+Claim: "Stalin’s photo displayed at Times Square in New York."
+
+No of comments from Language "Ka": 31
+No of comments from Language "Ta": 22
+No of comments from Language "Ta-En": 19
+No of comments from Language "En": 19
+No of comments from Language "Te": 18
+No of comments from Language "Hi": 18
+No of comments from Language "Ka-En": 18
+No of comments from Language "Te-En": 14
+No of comments from Language "Hi-En": 11
+
+--------------------------------------------------
+
+Claim: "AAP offers monetary relief only to Muslim victims of Delhi riots."
+
+No of comments from Language "Hi-En": 21
+No of comments from Language "Ka-En": 21
+No of comments from Language "Te-En": 18
+No of comments from Language "En": 17
+No of comments from Language "Ta-En": 15
+No of comments from Language "Ta": 11
+No of comments from Language "Hi": 11
+No of comments from Language "Ka": 8
+No of comments from Language "Te": 7
+
+--------------------------------------------------
+
+Claim: "The LGBTQ+ community is pushing for legalizing pedophilia."
+
+No of comments from Language "Ka": 33
+No of comments from Language "Hi-En": 14
+No of comments from Language "Hi": 13
+No of comments from Language "Ta": 12
+No of comments from Language "Ta-En": 12
+No of comments from Language "Te": 11
+No of comments from Language "En": 10
+No of comments from Language "Ka-En": 9
+No of comments from Language "Te-En": 7
+
+--------------------------------------------------
+
+Claim: "GPS chip installed in 2000 rupee notes."
+
+No of comments from Language "Te-En": 39
+No of comments from Language "Ka": 32
+No of comments from Language "Ta": 30
+No of comments from Language "Te": 29
+No of comments from Language "Hi-En": 25
+No of comments from Language "Hi": 24
+No of comments from Language "Ta-En": 24
+No of comments from Language "En": 19
+No of comments from Language "Ka-En": 17
+
+--------------------------------------------------
+
+Claim: "Wrestler Sakshi Malik being pinned down by cops."
+
+No of comments from Language "Ka": 38
+No of comments from Language "Te": 26
+No of comments from Language "En": 23
+No of comments from Language "Ta": 23
+No of comments from Language "Hi-En": 18
+No of comments from Language "Hi": 18
+No of comments from Language "Te-En": 11
+No of comments from Language "Ta-En": 11
+No of comments from Language "Ka-En": 10
+
+--------------------------------------------------
+
+Claim: "India has replaced the Indian Rupee with Digital Currency Completely."
+
+No of comments from Language "Ka-En": 39
+No of comments from Language "Ta-En": 25
+No of comments from Language "Te-En": 21
+No of comments from Language "Hi-En": 20
+No of comments from Language "Te": 17
+No of comments from Language "En": 16
+No of comments from Language "Hi": 13
+No of comments from Language "Ka": 13
+No of comments from Language "Ta": 10
+
+--------------------------------------------------
+
+Claim: "Muslim community in India is receiving special treatment in government welfare schemes."
+
+No of comments from Language "Hi-En": 23
+No of comments from Language "Te": 21
+No of comments from Language "Hi": 21
+No of comments from Language "Te-En": 17
+No of comments from Language "Ta": 13
+No of comments from Language "Ka": 13
+No of comments from Language "En": 12
+No of comments from Language "Ta-En": 9
+No of comments from Language "Ka-En": 6
+
+--------------------------------------------------
+
+Claim: "Tablighi Jamaat members roaming naked in an isolation ward."
+
+No of comments from Language "Ka-En": 16
+No of comments from Language "Hi-En": 13
+No of comments from Language "Te-En": 12
+No of comments from Language "Ta-En": 12
+No of comments from Language "Ta": 4
+No of comments from Language "Te": 3
+No of comments from Language "En": 3
+No of comments from Language "Ka": 2
+
+--------------------------------------------------
+
+Claim: "Vaccines contain microchips for surveillance."
+
+No of comments from Language "En": 43
+No of comments from Language "Hi-En": 35
+No of comments from Language "Ta-En": 29
+No of comments from Language "Ka-En": 28
+No of comments from Language "Te-En": 22
+No of comments from Language "Te": 20
+No of comments from Language "Hi": 5
+No of comments from Language "Ka": 5
+No of comments from Language "Ta": 3
+
+--------------------------------------------------
+
+Claim: "Shaheen Bagh women getting paid."
+
+No of comments from Language "Hi-En": 24
+No of comments from Language "Ta-En": 23
+No of comments from Language "En": 19
+No of comments from Language "Te-En": 19
+No of comments from Language "Te": 13
+No of comments from Language "Ka": 13
+No of comments from Language "Ka-En": 13
+No of comments from Language "Ta": 12
+No of comments from Language "Hi": 11
+
+--------------------------------------------------
+
+Claim: "RSS training Hindus to entrap Muslim girls."
+
+No of comments from Language "Ka-En": 31
+No of comments from Language "Te-En": 29
+No of comments from Language "En": 22
+No of comments from Language "Hi-En": 18
+No of comments from Language "Te": 16
+No of comments from Language "Ta-En": 16
+No of comments from Language "Ka": 14
+No of comments from Language "Ta": 13
+No of comments from Language "Hi": 8
+
+--------------------------------------------------
+
+Claim: "Station master at Bahanaga Bazar station is a Muslim and fled the accident site."
+
+No of comments from Language "Hi-En": 49
+No of comments from Language "Te-En": 17
+No of comments from Language "Ka-En": 15
+No of comments from Language "En": 13
+No of comments from Language "Ta-En": 13
+No of comments from Language "Te": 9
+No of comments from Language "Ta": 9
+No of comments from Language "Hi": 8
+No of comments from Language "Ka": 7
+
+--------------------------------------------------
+
+Claim: "African immigrants are responsible for rising crime in Europe."
+
+No of comments from Language "Ka-En": 33
+No of comments from Language "Ka": 31
+No of comments from Language "En": 30
+No of comments from Language "Te": 27
+No of comments from Language "Hi": 26
+No of comments from Language "Ta-En": 22
+No of comments from Language "Ta": 22
+No of comments from Language "Te-En": 22
+No of comments from Language "Hi-En": 19
+
+--------------------------------------------------
+
+Claim: "Hindu temple near Bahanaga Bazar station portrayed as a mosque, falsely claiming the Muslim community is behind the train accident."
+
+No of comments from Language "Hi-En": 26
+No of comments from Language "Ta-En": 25
+No of comments from Language "Ta": 17
+No of comments from Language "Te-En": 14
+No of comments from Language "Ka-En": 12
+No of comments from Language "En": 10
+No of comments from Language "Hi": 10
+No of comments from Language "Ka": 10
+No of comments from Language "Te": 5
+
+--------------------------------------------------
+
+Claim: "COVID-19 booster shots lead to AIDS."
+
+No of comments from Language "Ka-En": 32
+No of comments from Language "Ta-En": 30
+No of comments from Language "En": 27
+No of comments from Language "Ka": 22
+No of comments from Language "Te-En": 21
+No of comments from Language "Hi-En": 17
+No of comments from Language "Te": 15
+No of comments from Language "Ta": 15
+No of comments from Language "Hi": 14
+
+--------------------------------------------------
+
+Claim: "Specific vaccines cause sterility in minority communities."
+
+No of comments from Language "En": 8
+No of comments from Language "Ka-En": 6
+No of comments from Language "Ta-En": 5
+No of comments from Language "Te-En": 4
+No of comments from Language "Te": 1
+No of comments from Language "Ka": 1
+No of comments from Language "Hi-En": 1
+
+--------------------------------------------------
+
+Claim: "Muslim man threw an Indane gas cylinder on the tracks in Haldwani."
+
+No of comments from Language "Hi-En": 20
+No of comments from Language "Ka-En": 18
+No of comments from Language "Te-En": 18
+No of comments from Language "Ta-En": 17
+No of comments from Language "En": 16
+No of comments from Language "Ka": 11
+No of comments from Language "Te": 9
+No of comments from Language "Hi": 6
+No of comments from Language "Ta": 4
+
+--------------------------------------------------
+
+Claim: "Kukis bombing Meitei areas in Manipur."
+
+No of comments from Language "En": 24
+No of comments from Language "Te-En": 23
+No of comments from Language "Ka-En": 21
+No of comments from Language "Ta-En": 19
+No of comments from Language "Hi-En": 17
+No of comments from Language "Ta": 7
+No of comments from Language "Te": 7
+No of comments from Language "Hi": 6
+No of comments from Language "Ka": 4
+
+--------------------------------------------------
+
+Claim: "Muslim youth beaten up, detained for urinating on Kumbh banner."
+
+No of comments from Language "Te-En": 21
+No of comments from Language "Ta-En": 18
+No of comments from Language "Hi-En": 14
+No of comments from Language "Te": 10
+No of comments from Language "Ka-En": 4
+No of comments from Language "Ta": 2
+No of comments from Language "Hi": 2
+No of comments from Language "En": 1
+No of comments from Language "Ka": 1
+
+--------------------------------------------------
+
+Claim: "Adani Group is accused of fraud and stock manipulation by Hindenburg Research."
+
+No of comments from Language "Ka-En": 20
+No of comments from Language "En": 16
+No of comments from Language "Hi-En": 16
+No of comments from Language "Te-En": 12
+No of comments from Language "Ta-En": 11
+No of comments from Language "Ka": 9
+No of comments from Language "Te": 7
+No of comments from Language "Hi": 4
+No of comments from Language "Ta": 4
+
+--------------------------------------------------
+
+Claim: "300-year-old St. Joseph’s Church in Sugnu, Imphal. ‘BJP-supporting extremists’ had set it on fire."
+
+No of comments from Language "En": 13
+No of comments from Language "Ta-En": 11
+No of comments from Language "Ka": 8
+No of comments from Language "Hi": 7
+No of comments from Language "Ta": 7
+No of comments from Language "Ka-En": 7
+No of comments from Language "Te": 5
+No of comments from Language "Hi-En": 5
+No of comments from Language "Te-En": 1
+
+--------------------------------------------------
+
