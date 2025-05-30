@@ -4,17 +4,17 @@ Website: https://sai-kartheek-reddy.github.io/Deceptive-Humor-Web/
 
 ## Examples of Humorous Comments
 
-> Every time I clean my room, I find that one charger I accused everyone of stealing. 🙈😎
+Every time I clean my room, I find that one charger I accused everyone of stealing. 🙈😎
 
-> I downloaded a fitness app. Now it just sends motivational insults. 😤
+I downloaded a fitness app. Now it just sends motivational insults. 😤
 
-> I asked Google how to be productive 😌. It showed me 47 articles, which I read instead of working. 🤦‍♂️
+I asked Google how to be productive 😌. It showed me 47 articles, which I read instead of working. 🤦‍♂️
 
-> I tried cooking last night for the first time 🥶😂. The fire department said it was deliciously dangerous. 🔥🚒🧯
+I tried cooking last night for the first time 🥶😂. The fire department said it was deliciously dangerous. 🔥🚒🧯
 
-> I asked my mirror who's the laziest of them all. It sighed and said, "You again?" 😒
+I asked my mirror who's the laziest of them all. It sighed and said, "You again?" 😒
 
-> Exercise? I thought you said extra fries. 🤤
+Exercise? I thought you said extra fries. 🤤
 
 
 ---
