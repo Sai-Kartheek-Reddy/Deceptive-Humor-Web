@@ -24,7 +24,7 @@ Yes, AI can be funny too! 😄
 
 Yes, AI can make people laugh and effectively generate humorous content, often just as effectively as humans. This can be great for relaxing, entertainment, and creativity.
 
-But what if it is misused?
+But what if it misguides us?
 
 That’s exactly what we explored in this project, **Deceptive Humor**, where humor has the power to mislead and manipulate.
 
