@@ -2,7 +2,7 @@ Hyperparameter settings for Encoder-Only and Encoder-Decoder Models:
 ------------------------------------------------------------
 Max Length       : 128
 Batch Size      : 16
-Epochs          : 5
+Early Stopping Patience = 2
 Learning Rate   : 3e-5
 Dropout         : 0.3
 
